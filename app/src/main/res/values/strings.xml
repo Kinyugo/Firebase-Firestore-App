@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">C026_01_0319_2018_Authentication_App</string>
+    <string name="home_activity_label">Home</string>
+
+    <string name="sign_in_label">Sign In</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="date_of_birth_hint">Date of Birth</string>
+    <string name="sign_up_label">Sign Up</string>
+
+    <string name="dob_picker_content_description">Date Picker for Date of Birth</string>
+
+    <string name="home_card_content_description_media">Placeholder Image</string>
+    <string name="home_card_date_of_birth_label">Date of Birth:</string>
+    <string name="home_card_email_link_label">Email</string>
+</resources>

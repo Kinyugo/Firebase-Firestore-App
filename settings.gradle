@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "C026_01_0319_2018_Authentication_App"
